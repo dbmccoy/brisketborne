@@ -1,0 +1,61 @@
+{
+    "Tiles" : [
+        {
+            "Name" : "Floor",
+            "MapKey" : "0",
+            "Biome" : "Saloon",
+            "TileSet" : "Tileset1",
+            "Default" : "Tileset1_3",
+            "LeftWall" : "Tileset1_5",
+            "RightWall" : "Tileset1_4",
+            "LowerWall" : "Tileset1_6",
+            "LeftUpperWall" : "Tileset1_1",
+            "RightUpperWall" : "Tileset1_2",
+            "LeftLowerWall" : "Tileset1_7",
+            "RightLowerWall" : "Tileset1_8"
+        },
+
+        {
+            "Name" : "Wall",
+            "MapKey" : "1",
+            "Biome" : "Saloon",
+            "TileSet" : "Tileset1",
+            "Default" : "Tileset1_1",
+            "LeftWall" : "Tileset1_0",
+            "RightWall" : "Tileset1_2",
+            "LowerWall" : "Tileset1_6",
+            "LeftUpperWall" : "Tileset1_1",
+            "RightUpperWall" : "Tileset1_2",
+            "LeftLowerWall" : "Tileset1_7",
+            "RightLowerWall" : "Tileset1_8"
+        },
+        {
+            "Name" : "Door",
+            "MapKey" : "d",
+            "Biome" : "Saloon",
+            "TileSet" : "Tileset1",
+            "Default" : "Tileset1_7",
+            "LeftWall" : "Tileset1_5",
+            "RightWall" : "Tileset1_4",
+            "LowerWall" : "Tileset1_7",
+            "LeftUpperWall" : "Tileset1_7",
+            "RightUpperWall" : "Tileset1_7",
+            "LeftLowerWall" : "Tileset1_7",
+            "RightLowerWall" : "Tileset1_7"
+        },
+        {
+            "Name" : "ExtDoor",
+            "MapKey" : "E",
+            "Biome" : "Saloon",
+            "TileSet" : "Tileset1",
+            "Default" : "Tileset1_7",
+            "LeftWall" : "Tileset1_5",
+            "RightWall" : "Tileset1_4",
+            "LowerWall" : "Tileset1_6",
+            "LeftUpperWall" : "Tileset1_7",
+            "RightUpperWall" : "Tileset1_7",
+            "LeftLowerWall" : "Tileset1_7",
+            "RightLowerWall" : "Tileset1_7"
+        }
+    ]
+}
